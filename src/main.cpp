@@ -4,7 +4,7 @@
 
 // --- 1. KONFIGURASI WIFI ---
 const char* ssid = "Hijau Guest";
-const char* password = "HijauAndal20";
+const char* password = "HijauAndal";
 
 // --- 2. KONFIGURASI MQTT HOME ASSISTANT ---
 const char* mqtt_host = "homeassistant"; // Gunakan nama host, tanpa .local
